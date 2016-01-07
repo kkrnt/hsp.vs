@@ -1,0 +1,4 @@
+C:\Users\kkrnt\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\kkrnt\hsp.vs\1.0\\hsp.vs.dll
+C:\Users\kkrnt\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\kkrnt\hsp.vs\1.0\\extension.vsixmanifest
+C:\Users\kkrnt\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\kkrnt\hsp.vs\1.0\\hsp.xml
+C:\Users\kkrnt\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\kkrnt\hsp.vs\1.0\\hsp.vs.pdb
